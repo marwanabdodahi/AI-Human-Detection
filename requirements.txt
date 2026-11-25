@@ -1,0 +1,15 @@
+torch==2.6.0
+transformers==4.49.0
+datasets==3.3.2
+accelerate==1.4.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.4
+lime==0.2.0.1
+joblib==1.4.2
+jupyterlab>=4,<5
+fastapi==0.115.8
+uvicorn==0.34.0
+peft==0.14.0
+pyarrow==19.0.1
