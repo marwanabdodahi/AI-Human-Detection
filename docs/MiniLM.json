@@ -1,0 +1,9 @@
+{
+  "model": "MiniLM",
+  "accuracy": 0.96,
+  "precision": 0.96,
+  "recall": 0.96,
+  "f1": 0.96,
+  "size_MB": 134.416917,
+  "ms_per_text": 11.851018341258168
+}
